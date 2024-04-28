@@ -37,7 +37,10 @@ Este projeto foi desenvolvido por:
 
 ## Esquemático do Circuito 📐
 
-🔎 - O circuito pode ser visualizado no Tinkercad através deste [link](https://www.tinkercad.com/things/83sCITpfnRG-projeto-vinicula-edge-computing?sharecode=V9tSaWBHoaSKsl-U6h55ODGPf_Ghba85i-biV6nJoiA).
+🔎 - O circuito utilizado no Wokwi:
+
+<img width="652" alt="Screenshot 2024-04-28 at 19 00 41" src="https://github.com/yurisilpess/arduinohum/assets/99032447/7706c5b6-1d4d-45c1-b1b6-046eb6306ecc">
+
 
 -----------
 
@@ -53,6 +56,6 @@ Este projeto foi desenvolvido por:
 --------------
 
 ## Links 🔗
-- [Tinkercad](https://www.tinkercad.com/things/83sCITpfnRG-projeto-vinicula-edge-computing?sharecode=V9tSaWBHoaSKsl-U6h55ODGPf_Ghba85i-biV6nJoiA)
+- [Wokwi](https://wokwi.com/projects/395475883964931073)
 
 🔚
